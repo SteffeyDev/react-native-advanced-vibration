@@ -1,6 +1,8 @@
 
 # react-native-advanced-vibration
 
+This project is archived, use [react-native-haptic-feedback](https://github.com/mkuczera/react-native-haptic-feedback) instead.
+
 ## Getting started
 
 `$ npm install react-native-advanced-vibration --save`
